@@ -2,7 +2,7 @@
 
 hw-05 - Brushing and Linking
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: https://ds4200-s22.github.io/hw-05-hw-05-bayden-and-haleluya/
 
 ## Purpose
 
@@ -66,5 +66,10 @@ The purpose of this assignment is practice event handling with JavaScript.
 
 ## Submission
 
+<<<<<<< HEAD
 - Be sure to push all changes to your repo and follow all instructions above.
 - For this portion of your assignment **submit a clickable URL to your GitHub repository** (not your GitHub Page).
+=======
+* Be sure to push all changes to your repo and follow all instructions above. 
+* For this portion of your assignment **submit a clickable URL to your GitHub repository** (not your GitHub Page).
+>>>>>>> 494851a902c34af58618ce427908d13dde11554e
